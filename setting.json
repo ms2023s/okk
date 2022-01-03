@@ -227,6 +227,21 @@
           "value-attribute":"HYIpTMIZBqOHkOf6G6EMyXYdH5_kYbXbUWzvpZRhKxg"
         }
       ],
+       "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"msvalidate.01"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"CDBA894FFD557A5C39BB023EE00E17FB"
+        }
+      ]
       "data-innerHTML":"",
       "position":"start"
     }
