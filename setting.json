@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Di Cari Guru Tuh",
+  "author":"Bu Anitra",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://dicariguru.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -223,6 +223,23 @@
         {
           "name-attribute":"src",
           "value-attribute":"/assets/inject.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"end"
+    }
+  ],
+  "data-innerHTML":"",
+      "position":"start"
+    }
+  ],
+  "inject-element-body":[
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
+          "value-attribute":"/pop.dojo.cc/5815.js"
         }
       ],
       "data-innerHTML":"",
