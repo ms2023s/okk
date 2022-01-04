@@ -2,6 +2,6 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: /sitemap_index.xml
-Sitemap: /host-https-www.simplenews.me/feeds/posts/default?orderby=UPDATED
-Sitemap: /host-https-sitemap.rctiplus.com/sitemap.xml
+Sitemap: https://ikatancinta.tech/sitemap_index.xml
+Sitemap: https://ikatancinta.tech/host-https-www.simplenews.me/feeds/posts/default?orderby=UPDATED
+Sitemap: https://ikatancinta.tech/host-https-sitemap.rctiplus.com/sitemap.xml
