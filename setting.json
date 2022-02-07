@@ -1,8 +1,8 @@
 {
-  "name-web":"Di Cari Guru Tuh",
-  "author":"Bu Anitra",
+  "name-web":"Bagi JOB ke Guru",
+  "author":"Gedeng Ugam",
   "remove-comment-html":true,
-  "target":"https://dicariguru.com",
+  "target":"https://gurubagi.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -265,7 +265,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"/pop.dojo.cc/5816.js"
+          "value-attribute":"//pop.dojo.cc/5938.js"
         }
       ],
       "data-innerHTML":"",
